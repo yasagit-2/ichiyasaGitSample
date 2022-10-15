@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #ae4aca;
+		color: #4acaa8;
 		font-size: 3.5em;
 	}
 
@@ -2461,7 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #ae4aca;
+		background: #4acaa8;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #dcacea;
+					border-top: solid 2px #aeeddc;
 					display: block;
 					padding: 0;
 				}
@@ -2569,7 +2569,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #ae4aca !important;
+							color: #4acaa8 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2848,7 +2848,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #ae4aca;
+						background: #4acaa8;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
