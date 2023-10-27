@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .DS_Store
+# Added by y.hori
+/gt-vscode.sh
